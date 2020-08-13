@@ -399,14 +399,11 @@ nav a::before {
 #image-slider ul li.active-img {
   left: 0;
 }
-.fa-home, .fa-user-friends {
+.fa-home, .fa-user-friends, .fa-mobile-alt {
 font-size: 32px;
 color: #76659C;
 }
-.fa-phone-square-alt {
-  font-size: 32px;
-color: #76659C;
-}
+
 #thumbnail {
   position: absolute;
   z-index: 99999;
